@@ -10,3 +10,9 @@ html {
     min-height: 90vh;
     width: 100%;
 }
+
+.nav-link:hover {
+    background-color: #f8f9fa; 
+    color: #343a40 !important;
+    transition: background-color 0.3s, color 0.3s;
+}
