@@ -1,0 +1,8 @@
+.main-header {
+    background-image: url('../Images/banner-1176676_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    width: 100%;
+}
