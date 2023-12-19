@@ -23,7 +23,7 @@ _This screenshot shows the new work section, which is full width and contains th
 _This screenshot shows the My Skills section, which uses Bootstrap custom progress bars._
 
 ![New About Me and Contact section, with form.](Images/about-and-contact.png)
-_This screenshot shows the new About Us and contact section, which uses Bootstraps grid format and is followed by a form component._
+_This screenshot shows the new About Us and Contact section, which uses Bootstraps grid format and is followed by a form component._
 
 ## Installation
 
